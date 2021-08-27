@@ -11,7 +11,7 @@ Maintainer: @susowolf
 Section: Badges
 Filename: ./debians/com.susowolf.badgesamongus.deb
 Size: 6420190 
-MD5sum: 90575b77ea77ffa54a0a253a029e2f4f
+MD5sum: 3d7a53a35480bed10007c7df66e84d6c
 Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesamongus
 
 
@@ -28,7 +28,7 @@ Maintainer: @susowolf
 Section: Badges
 Filename: ./debians/com.susowolf.badgescrown.deb
 Size: 3739972
-MD5sum: 44a59893dde9d90c7117de4de635679a
+MD5sum: 9585b91227512323ca16dbecf133739b
 Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgescrown
 
 
