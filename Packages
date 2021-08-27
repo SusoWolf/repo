@@ -8,7 +8,7 @@ Depends:
 Description: Among Us - Badge Theme
 Homepage:
 Maintainer: @susowolf
-Section: Badges (Theme)
+Section: Badges
 Filename: ./debians/com.susowolf.badgesamongus.deb
 Size: 6420190 
 MD5sum: 90575b77ea77ffa54a0a253a029e2f4f
@@ -25,7 +25,7 @@ Depends:
 Description: Among Us Crown - Badge Theme
 Homepage:
 Maintainer: @susowolf
-Section: Badges (Theme)
+Section: Badges
 Filename: ./debians/com.susowolf.badgescrown.deb
 Size: 3739972
 MD5sum: 44a59893dde9d90c7117de4de635679a
