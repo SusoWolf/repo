@@ -10,9 +10,9 @@ Homepage:
 Maintainer: @susowolf
 Section: Badges
 Filename: ./debs/com.susowolf.badgesamongus.deb
-Size: 6419378
-MD5sum: 3d7a53a35480bed10007c7df66e84d6c
-Depiction: https://susowolf.github.io/repo/depictions/com.susowolf.badgesamongus
+Size: 6419418
+MD5sum: 0f81811f4c99d2f1aeac17c06b7b5b6c
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesamongus
 
 Name: badgescrown
 Package: com.susowolf.badgescrown
@@ -26,8 +26,8 @@ Homepage:
 Maintainer: @susowolf
 Section: Badges
 Filename: ./debs/com.susowolf.badgescrown.deb
-Size: 3737994
-MD5sum: 9585b91227512323ca16dbecf133739b
-Depiction: https://susowolf.github.io/repo/depictions/com.susowolf.badgescrown
+Size: 3738032
+MD5sum: 200b0d51bd5980f6469aade448862aa5
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgescrown
 
 
