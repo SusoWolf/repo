@@ -1,33 +1,30 @@
-Name: badgesamongus
 Package: com.susowolf.badgesamongus
-Architecture: iphoneos-arm
-Author: @SusoWolf 
 Version: 1.0
-Conflicts:
-Depends:
-Description: Among Us - Badge Theme
-Homepage:
+Architecture: iphoneos-arm
 Maintainer: @susowolf
-Section: Badges
 Filename: ./debs/com.susowolf.badgesamongus.deb
 Size: 6419418
 MD5sum: 0f81811f4c99d2f1aeac17c06b7b5b6c
-Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesamongus
-
-Name: badgescrown
-Package: com.susowolf.badgescrown
-Architecture: iphoneos-arm
-Author: @SusoWolf 
-Version: 1.0
-Conflicts:
-Depends:
-Description: Among Us Crown - Badge Theme
-Homepage:
-Maintainer: @susowolf
+SHA1: 9b3997e1ebc86c3a50d15dbcff80e51968784eb6
+SHA256: 8f33ea8d644afe6abdc885c5bfb2ade70ca4ce36a2969622ba687b8ed61f9d6f
 Section: Badges
+Description: Among Us - Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesamongus
+Name: badgesamongus
+
+Package: com.susowolf.badgescrown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgescrown.deb
 Size: 3738032
 MD5sum: 200b0d51bd5980f6469aade448862aa5
+SHA1: ffd0e9cd3bb668b63f70de7b5ad96586429962f6
+SHA256: 9ed293892608458a1ae82d7d299d51e93f29e95216c2de7c5b034a8bcdd3343b
+Section: Badges
+Description: Among Us Crown - Badge Theme
+Author: @SusoWolf
 Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgescrown
-
+Name: badgescrown
 
