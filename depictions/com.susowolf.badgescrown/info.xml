@@ -1,6 +1,6 @@
 <package>
-	<id>com.susowolf.badgesamongus</id>
-	<name>badgesamongus</name>
+	<id>com.susowolf.badgescrown</id>
+	<name>badgescrown</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -11,8 +11,8 @@
 	<dependencies>
 		<package></package>
 	</dependencies>
-		<descriptionlist>
-		<description> Among Us - Badge Theme</description>
+	<descriptionlist>
+		<description>Among Us Crown - Badge Theme</description>
 		</description>
 	</descriptionlist>
 	<screenshots>

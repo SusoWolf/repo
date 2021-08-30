@@ -3,12 +3,12 @@
 		<link>
 			<name>Follow me on Twitter</name>
 			<url>https://twitter.com/LobitaGault</url>
-
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Please Donate/name>
+			<name> Donate </name>
 			<url>https://www.paypal.com/paypalme/SusoWolf</url>
-
+			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
