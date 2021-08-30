@@ -1,17 +1,17 @@
 <packageInfo>
-    <bundleId>com.susowolf.badgescrown</bundleId>
-    <name>Badges Crown</name>
+    <bundleId>com.susowolf.badgesamongus</bundleId>
+    <name>Badges Among uS</name>
     <version>1.0</version>
     <descriptions>
         <description>
-            Among Us Crown - Badge Theme
+            Among Us - Badge Theme
         </description>
         <description>
 		<img src="https://i.ibb.co/2NhL3k3/IMG-8986.jpg">
         </description>
     </descriptions>
     <compatibility>
-        <miniOS>10</miniOS>
+        <miniOS>11.0</miniOS>
         <maxiOS>14</maxiOS>
     </compatibility>
     <dependencies>
