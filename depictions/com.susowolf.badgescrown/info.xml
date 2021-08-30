@@ -1,45 +1,32 @@
-<package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
-	<compatibility>
-		<firmware>
-			<miniOS>7.0</miniOS>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
-	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
-</package>
+<packageInfo>
+    <bundleId>com.susowolf.badgescrown</bundleId>
+    <name>Badges Crown</name>
+    <version>1.0</version>
+    <descriptions>
+        <description>
+            Among Us Crown - Badge Theme
+        </description>
+        <description>
+		<img src="https://i.ibb.co/2NhL3k3/IMG-8986.jpg">
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>14</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency></dependency>
+        <dependency></dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion> </changeVersion>
+            <changeDescription> </changeDescription>
+            <changeDescription> </changeDescription>
+        </change>
+        <change>
+            <changeVersion>V1.0</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
