@@ -1,3 +1,4 @@
+
 <package>
 	<id>com.susowolf.badgesamongus</id>
 	<name>Among Us Badges</name>
@@ -6,19 +7,31 @@
 		<firmware>
 			<miniOS>12</miniOS>
 			<maxiOS>14</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description></description>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+		<descriptionlist>
+		<description>This is an package will full depictions.</description>
+
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Among Us Badges Theme</description>
+			<image>foto.jpg</image>
+		</screenshot>		
+	
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
+
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>Donate</name>
+			<url>https://www.paypal.com/paypalme/SusoWolf</url>
+
+		</link>
+	</links>
 </package>
