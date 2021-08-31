@@ -1,35 +1,26 @@
-<package>
-	<id>com.susowolf.badgescrown</id>
-	<name>badgescrown</name>
-	<version>1.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>12</miniOS>
-			<maxiOS>14</maxiOS>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package></package>
-	</dependencies>
-	<descriptionlist>
-		<description>Among Us Crown - Badge Theme</description>
-		</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description> </description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-
-	</screenshots>
-	<changelog>
-		<change>First release</change>
-
-	</changelog>
-	<links>
-		<link>
-			<name>Donate</name>
-			<url>https://www.paypal.com/paypalme/SusoWolf</url>
-		</link>
-	</links>
-</package>
+<packageInfo>
+    <bundleId>com.susowolf.badgescrown</bundleId>
+    <name>badgescrown</name>
+    <version>1.0</version>
+    <descriptions>
+        <description>
+             Crown - Badge Theme
+        </description>
+        <description>
+            <image>cydia.jpg</image>
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>14</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency> </dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>1.0</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
