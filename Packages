@@ -1,12 +1,27 @@
+Package: com.susowolf.arrowdot
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.arrowdot.deb
+Size: 6540
+MD5sum: 938f593d12f22d3be3c972bd57b19f21
+SHA1: 432bdfe9f944f2a346cc88e78225b356e631a02d
+SHA256: 018d073119b91a5e5579e42e3d3b239b410a2682d5a77c4ad599cd9cd0811a5c
+Section: Arrows
+Description: Settings Dotted Arrow Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.arrowdot
+Name: arrowdot
+
 Package: com.susowolf.badgesamongus
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgesamongus.deb
 Size: 6419418
-MD5sum: 0f81811f4c99d2f1aeac17c06b7b5b6c
-SHA1: 9b3997e1ebc86c3a50d15dbcff80e51968784eb6
-SHA256: 8f33ea8d644afe6abdc885c5bfb2ade70ca4ce36a2969622ba687b8ed61f9d6f
+MD5sum: 4d89582dc4b04dae7736fa817ff0c3f0
+SHA1: 99acd1b7af8287eba7121ec4b7725ade36b4300e
+SHA256: 810a0da43d907dd4a0fe0e4b0ac72cc0d1f4eeed1403e3d97b48c4dd365db948
 Section: Badges
 Description: Among Us - Badge Theme
 Author: @SusoWolf
@@ -18,13 +33,433 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgescrown.deb
-Size: 3738032
-MD5sum: 200b0d51bd5980f6469aade448862aa5
-SHA1: ffd0e9cd3bb668b63f70de7b5ad96586429962f6
-SHA256: 9ed293892608458a1ae82d7d299d51e93f29e95216c2de7c5b034a8bcdd3343b
+Size: 3738026
+MD5sum: d5c3c465c2514d08dc134b78fcb144a3
+SHA1: 80442a2f5394a928d3e731af467461a8d72590cf
+SHA256: c27ba2140a1cb823406021a6c70774a5936fa82ffd1f7597964390e06257979b
 Section: Badges
-Description: Among Us Crown - Badge Theme
+Description: Crown - Badge Theme
 Author: @SusoWolf
 Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgescrown
 Name: badgescrown
+
+Package: com.susowolf.badgesegg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.badgesegg.deb
+Size: 1354742
+MD5sum: 1c4ecd352d69ce1b05ba8bd281c04b94
+SHA1: 1ac3848c8e96609553a30d36fe39b5aa4f7a0a7f
+SHA256: 26d157dcb17a91c8c2d24d9cd11fa3c6bd4ef8816f22b73ff2154a77c2c47a5e
+Section: Badges
+Description: Egg - Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesegg
+Name: badgesegg
+
+Package: com.susowolf.badgesflamingo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.badgesflamingo.deb
+Size: 6023312
+MD5sum: b7a19fed0b2752a9df659bada2f8953f
+SHA1: 5143f48b1bb451b4e8ed3fcebe2acf34447f8107
+SHA256: f2894755ab9e47fc2bef15a3b0869cb65a2f2b3a85b1dee04374fbf38c604008
+Section: Badges
+Description: Flamingo - Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesflamingo
+Name: badgesflamingo
+
+Package: com.susowolf.badgesplant
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.badgesplant.deb
+Size: 5698540
+MD5sum: e4fc995ea9618e50570630e3202ed065
+SHA1: 83f44ee49c43dca2a0dd5f6a22395af3178b439a
+SHA256: af4d35f06439d1b662a77ccf6c1cde152df0dedb1d1c9c862f93caded4d0daad
+Section: Badges
+Description: Plant - Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgesplant
+Name: badgesplant
+
+Package: com.susowolf.badgespostit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.badgespostit.deb
+Size: 1016452
+MD5sum: fecfecbe10d5b22982fd25559fa5bf08
+SHA1: 217303481db82b5ea657e032f8e775d5e4b25ab1
+SHA256: 1f7560f871253988933067fc27c65f9d7b416ba7f6b50cf43c36f07275185843
+Section: Badges
+Description: Postit- Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgespostit
+Name: badgespostit
+
+Package: com.susowolf.badgespumpkin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.badgespumpkin.deb
+Size: 9809920
+MD5sum: 52fbbd989b888cec8a360f730b412ecf
+SHA1: cb0d2317ad85553e756acd1ca3698bc6b0c088ac
+SHA256: e9f168cdf06fddfc644ad4f4b76fe931d18cfc68e62f9668525bc6caf34ca6c4
+Section: Badges
+Description: Pumpkin- Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgespumpkin
+Name: badgespumpkin
+
+Package: com.susowolf.badgessmiley
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.badgessmiley.deb
+Size: 6844
+MD5sum: 07d47b86a4dcbf8a568a12e65936deca
+SHA1: 04d0b7f007430cb42f5c4d09665f9b1b4088e6ae
+SHA256: 146f20e379d79b10e5494577b7c8e4c94ade519fac13f5bc6d016dad8483aebb
+Section: Badges
+Description: Smiley Face - Badge Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgessmiley
+Name: badgessmiley
+
+Package: com.susowolf.n95amongus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.N95amongUs.deb
+Size: 325888
+MD5sum: ce319fa5ce3fbef9544d20debc43ca90
+SHA1: ebfa55ed21a57483ab4d52c2670ea357add3434e
+SHA256: 2e158a021df1fabc6d9fbb8f396affeb36ed0ae12196644515153b33725f3131
+Section: N95 Masq
+Description: N95 Among Us
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.n95amongus
+Name: n95amongus
+
+Package: com.susowolf.n95pack1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.n95pack1.deb
+Size: 14657744
+MD5sum: 8021e0ed5c8ad494e426f276caf75ce3
+SHA1: 406f679cab55363eb2cd567c5e354523a8def557
+SHA256: 8562eb28bb136e2e18560720930436471ea3197ae856aebea019760cc34ab817
+Section: N95 Masq
+Description: Pack 1 - N95 Themes
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.n95pack1
+Name: n95pack1
+
+Package: com.susowolf.n95pack2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.n95pack2.deb
+Size: 6661658
+MD5sum: 2e73f7679c3aec10afd4cc7d2caba8ae
+SHA1: 23152b66f6b4a4e3418ce916cdcbc3d2992c27a9
+SHA256: 7bff98b7c159ea2c91549f7d7238b4aac900e84727a0fa6fa1aeb6556ab9b868
+Section: N95 Masq
+Description: Pack 2 - N95 Themes
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.n95pack2
+Name: n95pack2
+
+Package: com.susowolf.settingsalien
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsalien.deb
+Size: 83388
+MD5sum: bf9803f7f408001df0f44cc394082bf1
+SHA1: 5178644b7b5f2c8ec939897f9f21c1ef7a48fc4f
+SHA256: 2cc3715c4ad788be7a25a77150fc45c331dc6d161f2c7fcac7a4df0af82ce13c
+Section: Settings Icons
+Description: Alien - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsalien
+Name: settingsalien
+
+Package: com.susowolf.settingshashtagblack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingshashtagblack.deb
+Size: 80738
+MD5sum: e900ddfd0b577ae5282589588928070b
+SHA1: 62bb493b8d5305d33d183610dcc144a6c2562435
+SHA256: 280fdeb10c561963fdd81d15cea3b091118630f140d6694c7797b876e3d337e2
+Section: Settings Icons
+Description: Black # - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingshashtagblack
+Name: settingshashtagblack
+
+Package: com.susowolf.settingshashtagcolor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingshashtagcolor.deb
+Size: 1150274
+MD5sum: 4a9f16c7437311e876d82f32d43c4569
+SHA1: 7ac074c555103a5b39e1715c682b9158e450f463
+SHA256: 717780634ba803e7270846e8dbff381cee5334ce9d9516ac0a8702a55888c0fd
+Section: Settings Icons
+Description: Color # - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingshashtagcolor
+Name: settingshashtagcolor
+
+Package: com.susowolf.settingshashtagwhite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingshashtagwhite.deb
+Size: 81974
+MD5sum: e5344237d2d9d90ccb25bdc2d9e6570c
+SHA1: d0b35949f12732263756dc6a3c3d174bedf66ede
+SHA256: c38498189b6dbcbdd1f627fe7e056722e1b3be3e8336f557b67e752276e15841
+Section: Settings Icons
+Description: White # - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingshashtagwhite
+Name: settingshashtagwhite
+
+Package: com.susowolf.settingshyphenamie
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingshyphenamie.deb
+Size: 403526
+MD5sum: 9989016ab86fed591eb001e878913b2c
+SHA1: de2393060799142623338a7a1cd125ee4c891a77
+SHA256: 0f4fdd7122cd63eeb53f987dbc18c923d3dc945402a1e4d09336254c0b0dfd06
+Section: Settings Icons
+Description: Amie - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingshyphenamie
+Name: settingshyphenamie
+
+Package: com.susowolf.settingshyphenilios
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingshyphenilios.deb
+Size: 234970
+MD5sum: 1bb95726a1f1ef56b44ab9bde39ba9a8
+SHA1: 59b62e4b1de8b56dc3a692b85a74ab654576c087
+SHA256: c7f0b7b20cce5cb05322c025037f0850a511b92c429e36075db36d7fd7e2ae7f
+Section: Settings Icons
+Description: Ilios - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingshyphenilios
+Name: settingshyphenilios
+
+Package: com.susowolf.settingsxblack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxblack.deb
+Size: 865152
+MD5sum: 9bbb548ece79effc6ddf2fe49be21848
+SHA1: dd30f95a43c2c0f73fa63faa9f30f1c3d102aa49
+SHA256: e36cb43cc68894d429535e5f26f876dd347e05214929b3e7cd93c4c93b3ff0e3
+Section: Settings Icons
+Description: Black X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxblack
+Name: settingsxblack
+
+Package: com.susowolf.settingsxblue
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxblue.deb
+Size: 385866
+MD5sum: 8227f2864adbeef8dffb90a22bcbeb12
+SHA1: 9638a925178a71244034acb19493a507c7fb50db
+SHA256: 133f67753e3c968eb70b76b0c46caa073b4b5db59a054f0732c6ccb916627dbc
+Section: Settings Icons
+Description: Blue X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxblue
+Name: settingsxblue
+
+Package: com.susowolf.settingsxgray
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxgray.deb
+Size: 1047916
+MD5sum: d5097f5d9519a3f3a205496f7e7e3743
+SHA1: 30e75890d05a27a0d15f3bc78675b3d7d0e3f890
+SHA256: b0d34203e9b5dbe0106faf632461a0ae946ae097bb8dfe2d12122785d4b02f3a
+Section: Settings Icons
+Description: Gray X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxgray
+Name: settingsxgray
+
+Package: com.susowolf.settingsxgreen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxgreen.deb
+Size: 5824554
+MD5sum: 84c1be0354cae7e135ae8a84cd1b9820
+SHA1: 4146d7d4f077d2ccbc9c31624e66dc51701697b9
+SHA256: 44c160b7fcebf7a10b852490b9e0b745dd7d431c63a3b3f99d2aafd26e2a888f
+Section: Settings Icons
+Description: Green X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxgreen
+Name: settingsxgreen
+
+Package: com.susowolf.settingsxpurple
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxpurple.deb
+Size: 6457242
+MD5sum: a334ebc88625680bb8a05de059129377
+SHA1: 4efa778eb899f5ccd80bf164a23f7f8290071a6d
+SHA256: f5ccbf99f1501190e474a5d9103552c612091b598b53dc0827473a145525d6ae
+Section: Settings Icons
+Description: Purple X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxpurple
+Name: settingsxpurple
+
+Package: com.susowolf.settingsxred
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxred.deb
+Size: 1029488
+MD5sum: c8f3f4b103ef05b1758fd74c35fa1cc2
+SHA1: 8d8a91092fed41b56588c6fbc29f95553d62c262
+SHA256: 991eb42f6507ad1f1512db38df00db76e925521b416e82b9981424181ffef910
+Section: Settings Icons
+Description: Red X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxred
+Name: settingsxred
+
+Package: com.susowolf.settingsxwhite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.settingsxwhite.deb
+Size: 945480
+MD5sum: d2625c63a8b475afda9eadaeeaf6c7b2
+SHA1: c1adc85089b536a126d78abb698211ffebe03fda
+SHA256: 40933c88a6ea49f1e2e568986a1ef3761ee66daedab3130015dff50ff2413272
+Section: Settings Icons
+Description: White X - Settings Icons Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.settingsxwhite
+Name: settingsxwhite
+
+Package: com.susowolf.switchamongus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.switchamongus.deb
+Size: 12696
+MD5sum: 8ecce9f5cf7bfa5ce6c5bde7c7beda00
+SHA1: 4dd8365d6f5b45635034c261e65b86bba5a8ea6e
+SHA256: 41419e57e6661fc2879260187b6d3240425fffd04665bad1e3cf678f40281e94
+Section: Switches
+Description: Amongus - Switch Settings Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.switchamongus
+Name: switchamongus
+
+Package: com.susowolf.switchgudetama
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.switchgudetama.deb
+Size: 9404
+MD5sum: 792612f31e25fbaa36fedb7499ba832a
+SHA1: 386b5f2c5d3e9313d16529b6099fd010f6390ee8
+SHA256: 4b430a49cd2f99b9a16143f123c96d678c7789aea196e6ed00a851d5e71c6ac2
+Section: Switches
+Description: Gudetama - Switch Settings Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.switchgudetama
+Name: switchgudetama
+
+Package: com.susowolf.switchpackkawaii
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.switchpackkawaii.deb
+Size: 5651792
+MD5sum: 8592699cfbe2cea4c0caaf44e7837822
+SHA1: ff6108b23ed47b55080fd6a7eb55b8739557dc64
+SHA256: c180e4ba3045fb0a469620bf17c9df2a8f026b6084b6bfa702b88021d30a3d2a
+Section: Switches
+Description: Kawaii Pack- Switch Settings Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.switchpackkawaii
+Name: switchpackkawaii
+
+Package: com.susowolf.switchspace
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.switchspace.deb
+Size: 13634
+MD5sum: d0bba9f1e3d404dfa54c2a9816a751de
+SHA1: beeb0a2291b8d6ff2d9d34f8d7f75fd9409ed996
+SHA256: e48c47ac940417a913ede604c406884fb26da4826915febecb41222a5614bc6c
+Section: Switches
+Description: Space - Switch Settings Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.switchspace
+Name: switchspace
+
+Package: com.susowolf.switchturnoff
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.switchturnoff.deb
+Size: 20756
+MD5sum: 6653123d9e78a5510542b89a44d8b133
+SHA1: 5d887ff06a4eedba4d13ab2a14dbd9e22cb54b04
+SHA256: e1ce6f14a3ed24c505db6cc72520527fbac20afe7615f0cd60a72030a1297586
+Section: Switches
+Description: TurnOff - Switch Settings Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.switchturnoff
+Name: switchturnoff
+
+Package: com.susowolf.uikeyboarddeleteshift
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.uikeyboarddeleteshift.deb
+Size: 6192
+MD5sum: 9e4bd5b4db4339b01f4d036d79082371
+SHA1: a5145660e48bee21390fb7e5311f8b7914ccdd3d
+SHA256: df3c0f693a26a354de1c09d9e4772eb9095186983c356386670b8e425d4843f3
+Section: UI Keyboard
+Description: Delete and Shift Icons for Blackfog Laetus Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.uikeyboarddeleteshift
+Name: uikeyboarddeleteshift
 

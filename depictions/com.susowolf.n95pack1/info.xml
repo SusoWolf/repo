@@ -1,0 +1,30 @@
+<package>
+	<id>com.susowolf.n95pack1</id>
+	<name>n95pack1</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<maxiOS>14</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+		<descriptionlist>
+		<description>Pack 1 - N95 Themes</description>
+
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Pack 1 - N95 Themes</description>
+			<image>foto.jpg</image>
+		</screenshot>		
+	
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+
+	</changelog>
+
+</package>

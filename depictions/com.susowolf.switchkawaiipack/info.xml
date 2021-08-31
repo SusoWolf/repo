@@ -1,0 +1,30 @@
+<package>
+	<id>com.susowolf.switchpackkawaii</id>
+	<name>switchpackkawaii</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<maxiOS>14</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+		<descriptionlist>
+		<description>Pack Kawaii - Switch Settings Theme</description>
+
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Pack Kawaii - Switch Settings Theme</description>
+			<image>foto.jpg</image>
+		</screenshot>		
+	
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+
+	</changelog>
+
+</package>

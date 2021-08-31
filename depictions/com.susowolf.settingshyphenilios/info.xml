@@ -1,0 +1,30 @@
+<package>
+	<id>com.susowolf.settingshyphenilios</id>
+	<name>settingshyphenilios</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<maxiOS>14</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+		<descriptionlist>
+		<description>Ilios - Settings Icons Theme</description>
+
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Ilios - Settings Icons Theme</description>
+			<image>foto.jpg</image>
+		</screenshot>		
+	
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+
+	</changelog>
+
+</package>

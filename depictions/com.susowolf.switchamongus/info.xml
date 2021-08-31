@@ -1,0 +1,30 @@
+<package>
+	<id>com.susowolf.switchamongus</id>
+	<name>switchamongus</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<maxiOS>14</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+		<descriptionlist>
+		<description>Amongus - Switch Settings Theme</description>
+
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Amongus - Switch Settings Theme</description>
+			<image>foto.jpg</image>
+		</screenshot>		
+	
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+
+	</changelog>
+
+</package>
