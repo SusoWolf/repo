@@ -1,4 +1,3 @@
-
 <package>
 	<id>com.susowolf.badgesamongus</id>
 	<name>Among Us Badges</name>
@@ -13,12 +12,12 @@
 		<package> </package>
 	</dependencies>
 		<descriptionlist>
-		<description>Among Us Badges Theme<</description>
+		<description>Among Us - Badges Theme<</description>
 
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Among Us Badges Theme</description>
+			<description>Among Us - Badges Theme</description>
 			<image>foto.jpg</image>
 		</screenshot>		
 	

@@ -1,4 +1,3 @@
-
 <package>
 	<id>com.susowolf.badgescrown</id>
 	<name>Crown Badges</name>
@@ -13,12 +12,12 @@
 		<package> </package>
 	</dependencies>
 		<descriptionlist>
-		<description>Crown Badges Theme</description>
+		<description>Crown - Badges Theme</description>
 
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Crown Badges Theme</description>
+			<description>Crown -Badges Theme</description>
 			<image>foto.jpg</image>
 		</screenshot>		
 	
