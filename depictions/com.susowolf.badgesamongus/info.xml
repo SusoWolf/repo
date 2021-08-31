@@ -13,7 +13,7 @@
 		<package> </package>
 	</dependencies>
 		<descriptionlist>
-		<description>This is an package will full depictions.</description>
+		<description>Among Us Badges Theme<</description>
 
 	</descriptionlist>
 	<screenshots>
@@ -27,11 +27,5 @@
 		<change>Initial release</change>
 
 	</changelog>
-	<links>
-		<link>
-			<name>Donate</name>
-			<url>https://www.paypal.com/paypalme/SusoWolf</url>
 
-		</link>
-	</links>
 </package>
