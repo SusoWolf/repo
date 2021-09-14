@@ -133,6 +133,21 @@ Author: @SusoWolf
 Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.badgessmiley
 Name: badgessmiley
 
+Package: com.susowolf.laetusblackfog
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.laetusblackfog.deb
+Size: 9988626
+MD5sum: 5a1a73c65df82a8991da237027020c81
+SHA1: 8680f4b750bb7a9a7b2ddfcf54837ea1d3145835
+SHA256: 5a89bc76b7278f8d786ae9e84e46848b7d27ef4eecdd8e2bb5dcb8c2172f9412
+Section: Laetus Themes
+Description: Blackfog - Laetus Theme
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.laetusblackfog
+Name: laetusblackfog
+
 Package: com.susowolf.n95amongus
 Version: 1.0
 Architecture: iphoneos-arm
