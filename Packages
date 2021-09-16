@@ -454,9 +454,9 @@ Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.uikeyboarddeleteshift.deb
 Size: 6116
-MD5sum: 0a16e1376df83eb2e32f4deaa3f5fd62
-SHA1: 38dade94e3f0531f6b9ab4129c2077bdd3f04409
-SHA256: 5a5ba4fb20cb15e3e0eda19b189f87e702f4acdbfa53ac83b203369b402f73fd
+MD5sum: a74b452d738a500ae3c2f54649e99853
+SHA1: 20ef411a0729dc335a20ff481207d8a1240649d1
+SHA256: e56472dbcb931ebb673ce0231ab7b6f4af7515711a3e6262ab1f5f5f22c19740
 Section: UI Keyboard
 Description: Delete and Shift Icons for Blackfog Laetus Theme
 Author: @SusoWolf
