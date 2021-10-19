@@ -1,3 +1,18 @@
+Package: com.susowolf.N95spooky
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @susowolf
+Filename: ./debs/com.susowolf.N95spooky.deb
+Size: 4438336
+MD5sum: ba5a6b078448a3d17697eda3ff2c2c05
+SHA1: cb4faf8c36603d5d2aadd22cf5449b7a867bc2f4
+SHA256: 35006177d50bcd16ffcc221a0719fdc18690cc9de65fb61f97f97e43832622b1
+Section: N95 Masq
+Description: N95 Spooky
+Author: @SusoWolf
+Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.N95spooky
+Name: n95amongus
+
 Package: com.susowolf.arrowdot
 Version: 1.0
 Architecture: iphoneos-arm
@@ -18,10 +33,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgesamongus.deb
-Size: 4280020
-MD5sum: 977d97f588d667561ed581debd79b842
-SHA1: faa4380dc6e740128d193676ff09e071e79902cf
-SHA256: dcefdbd2c7baa92b6a4dd7bbf43fa70423c246e6f56eb7dd0c4d0147c9a1ecb8
+Size: 6419574
+MD5sum: 5053da2dfd0e6a856d453672f2db3249
+SHA1: 625752237911b25dd4275f9724a81c6c95eff808
+SHA256: 8afd1c0deaa3df1160451ec247b00f3fc706986e6ae8ef6983226ce0758c8761
 Section: Badges
 Description: Among Us - Badge Theme
 Author: @SusoWolf
@@ -33,10 +48,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgescrown.deb
-Size: 3738020
-MD5sum: d8812b4e4716156b4a8400d96eb7c0b4
-SHA1: 7f8883ed1accabbab96b6a1a69075b0459a6b8ab
-SHA256: 6f14a0e6bcbaaf3f526c2feed0431893f69c3ba2bc7bd58d278bc0a8f3ac6754
+Size: 5606604
+MD5sum: 97b7848d54299029080e17c3b6a9af17
+SHA1: 78587be712c1bd5b3da1e4a17ae43908991d57f6
+SHA256: 926cb8771f2a19748ecf78456ec5621983e75d7cf092f0393c32956bddead7e0
 Section: Badges
 Description: Crown - Badge Theme
 Author: @SusoWolf
@@ -48,10 +63,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgesegg.deb
-Size: 1354730
-MD5sum: 65b0bafb20375ae122544561de3ca38c
-SHA1: 6ba0dd60860867dde1b0913d060762b08d5a10e5
-SHA256: 1b7526ee2217c2c8d2a8b13ca561517eafa0db413f803a613d46e89faa7d4b42
+Size: 2031606
+MD5sum: 1b4ab48d5717bd5f1f6bfa347915eafe
+SHA1: 8077465cd6c968431add11193c645347f1f80b97
+SHA256: 0c60c45b8fa8308beccdb7724b6570e45bfff9205a025c2a09f7f10dc6d7b4bb
 Section: Badges
 Description: Egg - Badge Theme
 Author: @SusoWolf
@@ -63,10 +78,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgesflamingo.deb
-Size: 6023304
-MD5sum: 41c60b7ef06e159c1e7876449deca4bc
-SHA1: c8cfde3d8c4449132e8179904a30cc8de3da11e5
-SHA256: ada2e5488b8f995c7d9ada58bbf538082b727fdaf0900e93ed030b7b383eba09
+Size: 9034448
+MD5sum: 2474552b805eebc7318b15c586f78d93
+SHA1: 4e872c76a4ab2c4f969abd2db43ef8ea8c74e2d4
+SHA256: 4772567e2aa5c04c096f55378566a0bf0d5f37dcfb5a1d23589397533295fe0f
 Section: Badges
 Description: Flamingo - Badge Theme
 Author: @SusoWolf
@@ -78,10 +93,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgesplant.deb
-Size: 5698546
-MD5sum: dc3d8e922c95f360397c2e09f0543d75
-SHA1: 329b7a0de151aafcc158d7ef395f08d1738e0da1
-SHA256: c4f69a50674b24a635e98bc010e7cb026fe3ed72fb683c0894599a5cbf193901
+Size: 8547398
+MD5sum: cb1b825fc628b97492602335ef5441f9
+SHA1: aa374469b1c5ed8acf1e7157a647d03dbfe099b9
+SHA256: 5bf3e379dc474f1bfc3de5b158ab17bf00bf54e78ca3a8cbd633e6fbfbd92c0b
 Section: Badges
 Description: Plant - Badge Theme
 Author: @SusoWolf
@@ -93,10 +108,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgespostit.deb
-Size: 1016440
-MD5sum: 921ddc4a0d4fd44a26c686343d104df9
-SHA1: 46f873e32ad702d033b86f7a14bd401f89ca912a
-SHA256: 4b68ca82d4e8aa89257a0a5ea00c3ab4c6b22217fee578136e6bb9615a8dcacc
+Size: 1524050
+MD5sum: bc4db2faaa782aa4f305808f92c19fd0
+SHA1: 416c2baf8fb506d1abc171a6f576daa7544f574c
+SHA256: c20b7ad3a7df1e0fd8c54661fff9a0095e274a8238c107a9ac1ffb4f0f8398d1
 Section: Badges
 Description: Postit- Badge Theme
 Author: @SusoWolf
@@ -108,10 +123,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgespumpkin.deb
-Size: 9809922
-MD5sum: 4b80ff9d7745a2c6ba6c3456b286fa7e
-SHA1: 8353a4c29c0f1747df2228a445d3ff06aa7e67a3
-SHA256: 60689f0e0101b366b267f79017ece73f545d48fa35426d256ff2f7567081f9fa
+Size: 9809954
+MD5sum: 6307f9c72f2c75963b189bde74035260
+SHA1: f4df376ecb127b27d03aaad8d366738f48bb7e61
+SHA256: 54e11fdb47d2cb2764401bef355742301a25931d99d43dafe3c4a87f1bb05e14
 Section: Badges
 Description: Pumpkin- Badge Theme
 Author: @SusoWolf
@@ -123,10 +138,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.badgessmiley.deb
-Size: 6836
-MD5sum: f5bc7e6ff990c6d5786acdc345546f1e
-SHA1: 0aab0899f8181ebc40a52d1487655f6fa66826da
-SHA256: 6ad5ec7f66c5b4f94ce0a87713ebdebdf0c4bdedb87ddc0ec195c5e214fe7871
+Size: 6928
+MD5sum: e7ce7771f5e59cd6c06f9dfdf388ccf4
+SHA1: de2f7a673b0c63dd2976744b11954ed496f864e4
+SHA256: 4656dd6b3b62bf122e1ec6dcf91ef69335e3bd125f90c2e669cdd94cbfafe09b
 Section: Badges
 Description: Smiley Face - Badge Theme
 Author: @SusoWolf
