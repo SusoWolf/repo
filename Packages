@@ -3,15 +3,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @susowolf
 Filename: ./debs/com.susowolf.N95spooky.deb
-Size: 4438336
-MD5sum: ba5a6b078448a3d17697eda3ff2c2c05
-SHA1: cb4faf8c36603d5d2aadd22cf5449b7a867bc2f4
-SHA256: 35006177d50bcd16ffcc221a0719fdc18690cc9de65fb61f97f97e43832622b1
+Size: 4438332
+MD5sum: 6637391243e7be38540b12585d5a454c
+SHA1: 405d3d63a8968c541488829d9fd71370c95f66d7
+SHA256: 6bb78f9bbe7cd8a4c7a67c0c25ba0fc27a73903cffa77ffe8c626b8fec65761d
 Section: N95 Masq
 Description: N95 Spooky
 Author: @SusoWolf
 Depiction: https://susowolf.github.io/repo/depictions/?p=com.susowolf.N95spooky
-Name: n95amongus
+Name: n95spooky
 
 Package: com.susowolf.arrowdot
 Version: 1.0

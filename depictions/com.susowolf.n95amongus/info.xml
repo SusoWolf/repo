@@ -1,5 +1,5 @@
 <package>
-	<id>com.susowolf.n95pack1</id>
+	<id>com.susowolf.N95amongus</id>
 	<name>n95pack1</name>
 	<version>1.0</version>
 	<compatibility>
@@ -12,12 +12,12 @@
 		<package> </package>
 	</dependencies>
 		<descriptionlist>
-		<description>Pack 1 - N95 Themes</description>
+		<description>N95 Among Us</description>
 
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Pack 1 - N95 Themes</description>
+			<description>N95 Among Us</description>
 			<image>foto.jpg</image>
 		</screenshot>		
 	
